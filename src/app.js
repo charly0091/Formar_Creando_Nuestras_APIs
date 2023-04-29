@@ -4,7 +4,7 @@ const methodOverride = require('method-override');
 const app = express();
 
 
-//Ejecuto el llamado a mis rutas
+//Ejecuto el llamado a mis rutass
 const indexRouter = require('./routes/index');
 const moviesRoutes = require('./routes/moviesRoutes');
 const genresRoutes = require('./routes/genresRoutes');
